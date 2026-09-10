@@ -7,6 +7,17 @@ Lectures: MWF 11:30–12:20, HSC 105
 
 ---
 
+## Lecture Notebooks
+
+Worked examples that accompany the Monday/Wednesday lectures. Run them alongside
+the slides, or afterwards as a reference.
+
+| Lecture | Date | Topic | |
+|---|---|---|---|
+| **L2** | Mon Sept 14 | Digital images — pixel representation, colour models (RGB, HSV, CIE Lab), bit depth, brightness arithmetic | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L02-Digital-Images/L2_Digital_Images.ipynb) |
+
+---
+
 ## Active-Learning Labs
 
 Friday sessions are hands-on labs. Click **Open in Colab** to run a lab in your
