@@ -28,6 +28,7 @@ the skills assessed in the tests, assignments, and project.
 | Lab | Date | Topic | |
 |---|---|---|---|
 | **AL1** | Fri Sept 11 | Image processing fundamentals — arrays, colour spaces, ROI extraction, vegetation indices | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL01-Introduction/AL1_Image_Processing_Fundamentals.ipynb) |
+| **AL2** | Fri Sept 18 | Convolution and filtering — kernel design, denoising benchmark, preprocessing real PEI aerial imagery | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL02-Filtering/AL2_Convolution_Filtering1.ipynb) |
 
 ---
 
