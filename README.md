@@ -12,10 +12,15 @@ Lectures: MWF 11:30–12:20, HSC 105
 Worked examples that accompany the Monday/Wednesday lectures. Run them alongside
 the slides, or afterwards as a reference.
 
+<!-- LECTURES:START -->
+
 | Lecture | Date | Topic | |
 |---|---|---|---|
 | **L2** | Mon Sept 14 | Digital images — pixel representation, colour models (RGB, HSV, CIE Lab), bit depth, brightness arithmetic | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L02-Digital-Images/L2_Digital_Images.ipynb) |
 | **L3** | Wed Sept 16 | Spatial filtering — convolution, box/Gaussian/bilateral filters, sharpening, border handling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L03-Spatial_Filtering/L3_Spatial_Filtering.ipynb) |
+| **L4** | Mon Sept 21 | Edge detection — image gradients, Sobel & Prewitt, Laplacian of Gaussian, Canny, non-maximum suppression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L04-EdgeDetection/L4_Edge_Detection.ipynb) |
+
+<!-- LECTURES:END -->
 
 ---
 
@@ -25,10 +30,14 @@ Friday sessions are hands-on labs. Click **Open in Colab** to run a lab in your
 browser — no local install required. Labs are not submitted or graded; they build
 the skills assessed in the tests, assignments, and project.
 
+<!-- LABS:START -->
+
 | Lab | Date | Topic | |
 |---|---|---|---|
 | **AL1** | Fri Sept 11 | Image processing fundamentals — arrays, colour spaces, ROI extraction, vegetation indices | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL01-Introduction/AL1_Image_Processing_Fundamentals.ipynb) |
 | **AL2** | Fri Sept 18 | Convolution and filtering — kernel design, denoising benchmark, preprocessing real PEI aerial imagery | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL02-Filtering/AL2_Convolution_Filtering1.ipynb) |
+
+<!-- LABS:END -->
 
 ---
 
