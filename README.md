@@ -19,6 +19,7 @@ the slides, or afterwards as a reference.
 | **L2** | Mon Sept 14 | Digital images — pixel representation, colour models (RGB, HSV, CIE Lab), bit depth, brightness arithmetic | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L02-Digital-Images/L2_Digital_Images.ipynb) |
 | **L3** | Wed Sept 16 | Spatial filtering — convolution, box/Gaussian/bilateral filters, sharpening, border handling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L03-Spatial_Filtering/L3_Spatial_Filtering.ipynb) |
 | **L4** | Mon Sept 21 | Edge detection — image gradients, Sobel & Prewitt, Laplacian of Gaussian, Canny, non-maximum suppression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L04-EdgeDetection/L4_Edge_Detection.ipynb) |
+| **L5** | Wed Sept 23 | Image segmentation — global/adaptive thresholding, Otsu's method, region growing, morphology, watershed | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L05-Segmentation/L5_Segmentation.ipynb) |
 
 <!-- LECTURES:END -->
 
