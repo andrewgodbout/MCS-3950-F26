@@ -20,6 +20,7 @@ the slides, or afterwards as a reference.
 | **L3** | Wed Sept 16 | Spatial filtering — convolution, box/Gaussian/bilateral filters, sharpening, border handling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L03-Spatial_Filtering/L3_Spatial_Filtering.ipynb) |
 | **L4** | Mon Sept 21 | Edge detection — image gradients, Sobel & Prewitt, Laplacian of Gaussian, Canny, non-maximum suppression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L04-EdgeDetection/L4_Edge_Detection.ipynb) |
 | **L5** | Wed Sept 23 | Image segmentation — global/adaptive thresholding, Otsu's method, region growing, morphology, watershed | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L05-Segmentation/L5_Segmentation.ipynb) |
+| **L6** | Mon Sept 28 | Feature detection — Harris corner detector, image pyramids, scale space theory | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L06-FeatureDetection/L6_Feature_Detection.ipynb) |
 
 <!-- LECTURES:END -->
 
