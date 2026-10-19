@@ -22,6 +22,7 @@ the slides, or afterwards as a reference.
 | **L5** | Wed Sept 23 | Image segmentation — global/adaptive thresholding, Otsu's method, region growing, morphology, watershed | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L05-Segmentation/L5_Segmentation.ipynb) |
 | **L6** | Mon Sept 28 | Feature detection — Harris corner detector, image pyramids, scale space theory | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L06-FeatureDetection/L6_Feature_Detection.ipynb) |
 | **L7** | Mon Oct 5 | Feature descriptors — SIFT, ORB; keypoint matching and distance metrics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L07-FeatureDescriptors/L7_Feature_Descriptors.ipynb) |
+| **L8** | Mon Oct 19 | Feature matching, RANSAC, homography estimation, image stitching & panoramas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L08-RANSAC-Homography/L8_RANSAC_Homography.ipynb) |
 
 <!-- LECTURES:END -->
 
