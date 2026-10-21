@@ -23,6 +23,7 @@ the slides, or afterwards as a reference.
 | **L6** | Mon Sept 28 | Feature detection — Harris corner detector, image pyramids, scale space theory | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L06-FeatureDetection/L6_Feature_Detection.ipynb) |
 | **L7** | Mon Oct 5 | Feature descriptors — SIFT, ORB; keypoint matching and distance metrics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L07-FeatureDescriptors/L7_Feature_Descriptors.ipynb) |
 | **L8** | Mon Oct 19 | Feature matching, RANSAC, homography estimation, image stitching & panoramas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L08-RANSAC-Homography/L8_RANSAC_Homography.ipynb) |
+| **L9** | Wed Oct 21 | Dimensionality reduction — PCA, SVD, eigenfaces, explained variance, reconstruction error | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L09-PCA-SVD/L9_PCA_SVD.ipynb) |
 
 <!-- LECTURES:END -->
 
