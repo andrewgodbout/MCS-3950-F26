@@ -24,6 +24,7 @@ the slides, or afterwards as a reference.
 | **L7** | Mon Oct 5 | Feature descriptors — SIFT, ORB; keypoint matching and distance metrics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L07-FeatureDescriptors/L7_Feature_Descriptors.ipynb) |
 | **L8** | Mon Oct 19 | Feature matching, RANSAC, homography estimation, image stitching & panoramas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L08-RANSAC-Homography/L8_RANSAC_Homography.ipynb) |
 | **L9** | Wed Oct 21 | Dimensionality reduction — PCA, SVD, eigenfaces, explained variance, reconstruction error | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L09-PCA-SVD/L9_PCA_SVD.ipynb) |
+| **L10** | Mon Oct 26 | Optical flow — Lucas–Kanade, Farneback dense flow, applications in motion estimation & tracking | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L10-OpticalFlow/L10_Optical_Flow.ipynb) |
 
 <!-- LECTURES:END -->
 
