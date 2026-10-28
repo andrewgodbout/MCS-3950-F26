@@ -25,6 +25,8 @@ the slides, or afterwards as a reference.
 | **L8** | Mon Oct 19 | Feature matching, RANSAC, homography estimation, image stitching & panoramas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L08-RANSAC-Homography/L8_RANSAC_Homography.ipynb) |
 | **L9** | Wed Oct 21 | Dimensionality reduction — PCA, SVD, eigenfaces, explained variance, reconstruction error | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L09-PCA-SVD/L9_PCA_SVD.ipynb) |
 | **L10** | Mon Oct 26 | Optical flow — Lucas–Kanade, Farneback dense flow, applications in motion estimation & tracking | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L10-OpticalFlow/L10_Optical_Flow.ipynb) |
+| **L11** | Wed Oct 28 | Stereo vision — epipolar geometry, essential/fundamental matrices, disparity maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L11-Stereo/L11_MagicEye.ipynb) |
+| **L11** | Wed Oct 28 | Stereo vision — epipolar geometry, essential/fundamental matrices, disparity maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L11-Stereo/L11_Stereo.ipynb) |
 
 <!-- LECTURES:END -->
 
