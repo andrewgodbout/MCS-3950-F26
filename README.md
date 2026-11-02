@@ -27,6 +27,7 @@ the slides, or afterwards as a reference.
 | **L10** | Mon Oct 26 | Optical flow — Lucas–Kanade, Farneback dense flow, applications in motion estimation & tracking | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L10-OpticalFlow/L10_Optical_Flow.ipynb) |
 | **L11** | Wed Oct 28 | Stereo vision — epipolar geometry, essential/fundamental matrices, disparity maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L11-Stereo/L11_MagicEye.ipynb) |
 | **L11** | Wed Oct 28 | Stereo vision — epipolar geometry, essential/fundamental matrices, disparity maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L11-Stereo/L11_Stereo.ipynb) |
+| **L12** | Mon Nov 2 | Neural networks review — perceptrons, backpropagation; intro to convolutional layers and pooling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L12-NeuralNets/L12_Neural_Networks.ipynb) |
 
 <!-- LECTURES:END -->
 
