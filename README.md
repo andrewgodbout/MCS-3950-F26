@@ -49,6 +49,7 @@ the skills assessed in the tests, assignments, and project.
 | **AL3** | Fri Sept 25 | Morphology & watershed — structuring elements; distance-transform seeds to count touching objects; audit field sizes on 1935 imagery | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL03-Segmentation/AL03-Seg.ipynb) |
 | **AL5** | Fri Oct 9 | Feature matching introduction — FLANN/BF matching, ratio test, visualising matches | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL05-FeatureMatching/AL5_Feature_Matching.ipynb) |
 | **AL6** | Fri Oct 23 | Panorama building — stitch a multi-image panorama using SIFT + RANSAC homography | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL06-Panorama/AL6_Panorama_Building.ipynb) |
+| **AL7** | Fri Nov 6 | CNN training — build and train a CNN on CIFAR-10; observe effect of depth, LR, augmentation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL07-CNNTrain/AL7_CNN_Training.ipynb) |
 
 <!-- LABS:END -->
 
