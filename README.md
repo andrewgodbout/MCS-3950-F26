@@ -55,6 +55,14 @@ the skills assessed in the tests, assignments, and project.
 
 ---
 
+## Resources for projects
+
+| Resource | What it is | |
+|---|---|---|
+| **[A2 tile kit](Resources/A2-tile-kit)** | How the Assignment 2 dataset was made, and the tools to make your own: cut tiles from your project image set, label them in a web page that shows every year, build a train/val/test split by place, and map a whole site with a trained network. Recipes for Options 4, 8 and 1. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Resources/A2-tile-kit/tile_kit_demo.ipynb) |
+
+---
+
 ## Working in Colab
 
 1. Click the **Open in Colab** badge above.
@@ -77,6 +85,8 @@ questions to the start of that class.
 Notebooks/
   AL01-Introduction/   lab notebooks
   data/                images and archives the notebooks download
+Resources/
+  A2-tile-kit/         dataset-making kit for projects (README, tilekit.py, demo notebook)
 ```
 
 ---
