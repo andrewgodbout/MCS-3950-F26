@@ -29,6 +29,7 @@ the slides, or afterwards as a reference.
 | **L11** | Wed Oct 28 | Stereo vision — epipolar geometry, essential/fundamental matrices, disparity maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L11-Stereo/L11_Stereo.ipynb) |
 | **L12** | Mon Nov 2 | Neural networks review — perceptrons, backpropagation; intro to convolutional layers and pooling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L12-NeuralNets/L12_Neural_Networks.ipynb) |
 | **L13** | Wed Nov 4 | CNN architectures — AlexNet, VGG, ResNet, skip connections, batch normalisation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L13-CNNs/L13_CNN_Architectures.ipynb) |
+| **L14** | Mon Nov 9 | Transfer learning & fine-tuning — feature extraction vs. full fine-tuning, data augmentation, regularisation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L14-transfer/L14_Transfer_Learning.ipynb) |
 
 <!-- LECTURES:END -->
 
