@@ -58,9 +58,14 @@ the skills assessed in the tests, assignments, and project.
 
 ## Resources for projects
 
+<!-- RESOURCES:START -->
+
 | Resource | What it is | |
 |---|---|---|
 | **[A2 tile kit](Resources/A2-tile-kit)** | How the Assignment 2 dataset was made, and the tools to make your own: cut tiles from your project image set, label them in a web page that shows every year, build a train/val/test split by place, and map a whole site with a trained network. Recipes for Options 4, 8 and 1. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Resources/A2-tile-kit/tile_kit_demo.ipynb) |
+| **[SAM helper](Notebooks/SAM_Helper/SAM_Helper.ipynb)** | Segment Anything (SAM 2) on the project air photos, no training or labels needed: click or draw a box to cut out water or a field, compare the same region in 1935, 1968 and 2020, check masks with IoU, count fields with “segment everything”, and save masks, areas and outlines. Written for the coastal and farm-consolidation groups; also shows how to swap in SAM 3. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/SAM_Helper/SAM_Helper.ipynb) |
+
+<!-- RESOURCES:END -->
 
 ---
 
