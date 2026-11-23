@@ -31,6 +31,7 @@ the slides, or afterwards as a reference.
 | **L13** | Wed Nov 4 | CNN architectures — AlexNet, VGG, ResNet, skip connections, batch normalisation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L13-CNNs/L13_CNN_Architectures.ipynb) |
 | **L14** | Mon Nov 9 | Transfer learning & fine-tuning — feature extraction vs. full fine-tuning, data augmentation, regularisation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L14-transfer/L14_Transfer_Learning.ipynb) |
 | **L15** | Mon Nov 16 | Object detection — sliding window, R-CNN family (Fast/Faster R-CNN), YOLO (one-stage detection) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L15-ObjectDetection/L15_Object_Detection.ipynb) |
+| **L16** | Mon Nov 23 | Semantic & instance segmentation — FCN, U-Net, Mask R-CNN; Vision Transformers (ViT), attention | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/L16-Segmentation/L16_Segmentation_Transformers.ipynb) |
 
 <!-- LECTURES:END -->
 
