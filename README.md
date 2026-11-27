@@ -57,6 +57,7 @@ the skills assessed in the tests, assignments, and project.
 | **AL7** | Fri Nov 6 | CNN training — build and train a CNN on CIFAR-10; observe effect of depth, LR, augmentation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL07-CNNTrain/AL7_CNN_Training.ipynb) |
 | **AL8** | Fri Nov 13 | Transfer learning — fine-tune a pre-trained ResNet on a custom dataset | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL08-TransferLearning/AL8_Transfer_Learning.ipynb) |
 | **AL9** | Fri Nov 20 | Object detection — run YOLO inference on custom images; analyse precision-recall trade-offs | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL09-ObjDetection/AL9_Object_Detection.ipynb) |
+| **AL10** | Fri Nov 27 | Segmentation & ViT — apply U-Net to biomedical images; explore ViT attention maps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrewgodbout/MCS-3950-F26/blob/main/Notebooks/AL10-Segmentation/AL10_Segmentation.ipynb) |
 
 <!-- LABS:END -->
 
